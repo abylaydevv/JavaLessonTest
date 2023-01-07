@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        getMax(12 23 12);
+        getMax(122 212);
     }
     static int getMax(int a, int b, int c) {
         if (a > b & a > c) {
