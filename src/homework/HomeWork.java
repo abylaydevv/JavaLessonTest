@@ -6,6 +6,6 @@ public class HomeWork {
         task1();
     }
     private static void task1(){
-        System.out.println("Изучил 7 уроков курса.");
+        System.out.println("Изучил 7 уроков курса.ПРИВЕТ МИР!");
     }
 }
