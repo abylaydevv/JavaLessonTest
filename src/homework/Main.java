@@ -5,9 +5,10 @@ import java.util.Scanner;
 public class Main {
 
 
-     public static void main(String[] args) {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
-  }
+    }
     static int getMax(int a, int b, int c) {
         if (a > b & a > c) {
             return a;
